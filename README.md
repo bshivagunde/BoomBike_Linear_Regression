@@ -19,7 +19,7 @@ BoomBikes aims to increase its post-pandemic revenue and understand the factors 
 Our goal is to create a predictive model for bike demand based on various factors. This model will aid in adapting business strategies to meet customer expectations and demand levels.
 
 ### Data Used
-- **Data File:** [day.csv](link-to-data.csv)
+- **Data File:** The Dataset Used for this Project is provided by Upgrade in the form of '.csv' file
 - **Data Description:** 730 Rows, 16 Columns
 - **Years Covered:** 2018 and 2019
 
