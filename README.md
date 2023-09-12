@@ -11,7 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-> #### Problem Statement:
+#### Problem Statement:
 > BoomBikes wants to increase its revenue after the COVID-19 pandemic. The company want to figure out what factors affect the demand for shared bikes. 
 They want to know:
 
@@ -20,10 +20,10 @@ They want to know:
 > To do this, they've collected a lot of data on daily bike usage and factors like weather and people's behavior across the US market. 
 The goal is to understand what makes people want to use their bikes and use this information to boost their business when the pandemic ends.
 
-> #### Business Goal:
+#### Business Goal:
 The business goal is to create a model that can predict how many people will use shared bikes based on different factors. This model will help the company's management understand how bike demand changes with various features like weather and customer behavior. By using this model, they can adjust their business strategy to meet customer expectations and demand levels. Additionally, it will be a valuable tool for understanding how bike demand works in a new market.
 
-> #### Data Used:
+#### Data Used:
 - "day.csv" 
 - The Data has 730 Rows and 16 Columns
 - The Data is for year 2018 and 2019
