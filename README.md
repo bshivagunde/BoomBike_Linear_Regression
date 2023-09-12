@@ -17,7 +17,7 @@ They want to know:
 
 - Which factors are important in predicting how many people will use their bikes? 
 - How accurately can these factors predict bike demand?
--
+# 
 To do this, they've collected a lot of data on daily bike usage and factors like weather and people's behavior across the US market. 
 The goal is to understand what makes people want to use their bikes and use this information to boost their business when the pandemic ends.
 
