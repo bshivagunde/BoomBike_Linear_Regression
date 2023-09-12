@@ -24,7 +24,7 @@ The goal is to understand what makes people want to use their bikes and use this
 > #### Business Goal:
 The business goal is to create a model that can predict how many people will use shared bikes based on different factors. This model will help the company's management understand how bike demand changes with various features like weather and customer behavior. By using this model, they can adjust their business strategy to meet customer expectations and demand levels. Additionally, it will be a valuable tool for understanding how bike demand works in a new market.
 
-> ####Data Used:
+> #### Data Used:
 - "day.csv" 
 - The Data has 730 Rows and 16 Columns
 - The Data is for year 2018 and 2019
